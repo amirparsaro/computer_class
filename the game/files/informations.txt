@@ -1,0 +1,11 @@
+coins :
+10000
+
+diamonds :
+10
+
+points :
+0
+
+tank :
+1
